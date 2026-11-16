@@ -1,0 +1,21 @@
+==========================================
+             STUDENT REPORT CARD
+==========================================
+Student ID: STU001
+Name: John Doe
+Class: SS2
+Gender: Male
+Date of Birth: 2008-05-15
+------------------------------------------
+SUBJECT SCORES
+English: 85.0
+Mathematics: 88.0
+Biology: 90.0
+Chemistry: 65.0
+Physics: 72.0
+------------------------------------------
+Total: 400.0
+Average: 80.0
+Grade: A
+Date Result Entered: 2026-11-16
+==========================================

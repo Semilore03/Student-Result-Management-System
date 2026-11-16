@@ -1,0 +1,11 @@
+===============================================
+              CLASS RESULT REPORT
+===============================================
+STU001 - John Doe | Total: 400.0 | Average: 80.0 | Grade: A
+-----------------------------------------------
+Highest Score: 90.0
+Lowest Score: 65.0
+Class Average: 80.0
+Highest Student Average: 80.0
+Lowest Student Average: 80.0
+===============================================

@@ -1,0 +1,17 @@
+[
+    {
+        "student_id": "STU001",
+        "name": "John Doe",
+        "student_class": "SS2",
+        "gender": "Male",
+        "date_of_birth": "2008-05-15",
+        "scores": {
+            "English": 85.0,
+            "Mathematics": 88.0,
+            "Biology": 90.0,
+            "Chemistry": 65.0,
+            "Physics": 72.0
+        },
+        "date_entered": "2026-11-16"
+    }
+]
